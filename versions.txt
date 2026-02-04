@@ -1,0 +1,7 @@
+Versão 0.1 → eval() + loop
+
+Versão 0.2 → validação (regex, caracteres permitidos)
+
+Versão 1.0 → parser próprio (sem eval)
+
+Versão 2.0 → funções, variáveis, histórico

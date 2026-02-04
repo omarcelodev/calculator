@@ -1,0 +1,7 @@
+calculadora/
+│
+├── main.py              # Loop principal / interface
+├── parser.py            # Interpreta a expressão
+├── evaluator.py         # Calcula o resultado
+├── validator.py         # Valida entrada
+└── errors.py            # Erros customizados

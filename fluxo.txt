@@ -1,0 +1,9 @@
+Entrada do usuário (string)
+        ↓
+Validação básica
+        ↓
+Interpretação da expressão
+        ↓
+Cálculo
+        ↓
+Resultado ou erro
